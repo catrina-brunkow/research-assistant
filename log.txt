@@ -1,0 +1,20 @@
+2020-06-23 12:57:23.115465
+
+
+WDS_name : 
+min_mag : None
+max_mag : None
+min_ra : None
+max_ra : None
+min_dec : None
+max_dec : None
+min_sep : None
+max_sep : None
+max_delta_mag : None
+min_nobs : 10.0
+nobs : None
+last_obs : None
+min_d_sep : None
+max_d_sep : None
+submit : True
+csrf_token : ImY4YTVkYTI1ODlmNzgyNjQ2MmI2YTFiNzIxY2MzNjVlMmJjY2VjYzci.XvJejw.6IIvN5a9uflcTVYosHY8Gu_525o

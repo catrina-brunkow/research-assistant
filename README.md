@@ -1,8 +1,8 @@
 Author: Alex Hewett
-
-Developed for Boyce Astro in San Diego, CA for double star astronomy research. The tool is designed to simplify 
+Editor: Catrina Brunkow
+Developed for Boyce Astro in 2019 in San Diego, CA for double star astronomy research. The tool is designed to simplify 
 the target selection process and give preliminary analysis of candidates. 
-
+Editted in 2020 by Catrina Brunkow
 Most of the application is located in the "tool" directory. The main runtime script is located in "routes.py".
 
 The dataset is an enhanced version of a database made by Dave Rowe. The original dataset comes from the 
